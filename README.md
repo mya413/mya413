@@ -2,6 +2,7 @@
 <a href="https://2stom.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tistory&logoColor=FF5544"/></a>
 <a href="https://local-origami-5e4.notion.site/d482319cbdd1426594f154704ef73167?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+### ⚙️ Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></br></br>
 
 
